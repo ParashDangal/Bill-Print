@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill Print", "Bill Print\Bill Print.csproj", "{EAFF791A-7D9F-42C5-9D87-B4DFAEA1E96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFF791A-7D9F-42C5-9D87-B4DFAEA1E96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF791A-7D9F-42C5-9D87-B4DFAEA1E96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF791A-7D9F-42C5-9D87-B4DFAEA1E96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF791A-7D9F-42C5-9D87-B4DFAEA1E96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6EED882-19DD-43BD-8305-A00D8F22A4AB}
+	EndGlobalSection
+EndGlobal
